@@ -1,2 +1,2 @@
-# git
+# Git
 Reviewing Git
